@@ -12,9 +12,5 @@ window.dataLayer_dag.push({
         name: "<pageName>", // "Homepage”
         type: "<pageType>", // "Landing", "Article"
         pagePath: "<pagePath>"
-    },
-    application: {
-        id: "<applicationId>", // "app123" für eine eindeutige Anwendungs-ID
-        version: "<applicationVersion>" // "1.2.3" für die Versionsnummer der Anwendung
     }
 });
