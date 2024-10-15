@@ -5,7 +5,6 @@ window.dataLayer_dag.push({
         language: "<language>" // "de" für Deutsch, "en" für Englisch
     },
     user: {
-        internal: "<internalTraffic>", // true für internen Traffic, false für externen Traffic
         loginState: "<loginState>" // "loggedIn", "loggedOut"
     },
     page: {
